@@ -58,6 +58,7 @@
   padding-top: 0;
   padding-bottom: 0;
   box-shadow: 0 1.2rem 3.2rem rgba(0, 0, 0, 0.03);
+  z-index: 9999;
 }
 .header-sticky-nav {
   margin-top: 8rem;
